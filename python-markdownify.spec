@@ -18,3 +18,6 @@ BuildArch:	noarch
 Convert HTML to Markdown
 
 %files
+%{_bindir}/markdownify
+%{python_sitelib}/markdownify-%{version}.dist-info/
+%{python_sitelib}/markdownify/
