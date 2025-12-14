@@ -7,6 +7,7 @@ URL:		https://github.com/matthewwithanm/python-markdownify
 License:	MIT
 Group:		Development/Python
 BuildRequires:	python
+BuildRequires:  python%{pyver}dist(setuptools)
 
 Requires:  python3dist(beautifulsoup4)
 Requires:  python3dist(six)
