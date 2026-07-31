@@ -1,5 +1,5 @@
 Name:		python-markdownify
-Version:	1.2.2
+Version:	1.2.3
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/m/markdownify/markdownify-%{version}.tar.gz
 Summary:	Convert HTML to Markdown
